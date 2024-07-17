@@ -1,9 +1,9 @@
 #HashtagOfTheDay
 
-EventID: 5
+EventID: 4
 
 Description:
-- This is a small description on why the event took/will take place
+- This is a small description on why the event took take place
 
 Locations:
 - Location 1

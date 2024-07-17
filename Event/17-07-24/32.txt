@@ -1,5 +1,18 @@
-# Hashtag
-# Date
-# Description
-# Locations
-# Reqs
+#HashtagOfTheDay
+
+EventID: 5
+
+Description:
+- This is a small description on why the event took/will take place
+
+Locations:
+- Location 1
+- Location 2
+- Location 3
+
+Requirements:
+- Requirement 1
+- Requirement 2
+- Requirement 3
+- Requirement 4
+
